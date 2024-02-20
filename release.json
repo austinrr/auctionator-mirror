@@ -1,0 +1,14 @@
+{
+    "releases": [
+        {
+            "filename": "Auctionator-10.2.24-classic",
+            "nolib": false,
+            "metadata": [
+                {
+                    "flavor": "classic",
+                    "interface": 11501
+                }
+            ]
+        }
+    ]
+}
